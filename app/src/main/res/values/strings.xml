@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Shout out</string>
+    <string name="username_required">username required</string>
 </resources>
